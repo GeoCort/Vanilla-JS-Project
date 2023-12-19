@@ -43,4 +43,7 @@ span{
         gap:3rem;
         flex-direction: column;
     }
+    h1{
+        font-size:3rem;
+    }
 }
